@@ -6,3 +6,7 @@ Tools
 - Raspberrypi with Camera
 - Wechat
 - Deep learning (tensorflow model)
+
+
+Related links:
+https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
